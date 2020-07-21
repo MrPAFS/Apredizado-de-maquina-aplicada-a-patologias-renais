@@ -22,3 +22,6 @@ O desenvolvimento deste trabalho se baseia na metodologia descrita por Fayyad et
 2. A modelo escolhido foi a floresta aleatória, porém foram mantidos no repositório os testes realizados de redes neurais.
 Assim como também foi mantido os diversos testes de distribuições dos diagnósticos, os escolhidos são Group_by_definitive - 
 GLCM e Group_by_definitive.
+
+## Referências
+FAYYAD, U. M.; PIATETSKY-SHAPIRO, G.; SMYTH, P. (1996). From Data Mining to Knowledge in Databases. AI Magazine, [Menlo Park], v.17, n.3, mar. 1996. Disponível em: <https://www.aaai.org/ojs/index.php/aimagazine/article/view/1230> . Acesso em: 19 fev. 2020.
