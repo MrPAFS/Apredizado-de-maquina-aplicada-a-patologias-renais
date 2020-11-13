@@ -1,15 +1,15 @@
 # Apredizado-de-maquina-aplicada-a-patologias-renais
 Esse repositório contém os códigos do projeto de iniciação científica com título Estudo e implementação de algoritmos 
-de aprendizagem de máquina supervisionado aplicadas no Diagnóstico por imagens de Patologias Renais realizado pelo
-discente Pedro Antonio Fernandes da Silva e orientado por Vinicius ponte Machado.
+de aprendizagem de máquina supervisionado aplicados no Diagnóstico por imagens de Patologias Renais realizado pelo
+discente Pedro Antonio Fernandes da Silva e orientado por Vinicius Ponte Machado.
 
 ## Instruções
 O desenvolvimento deste trabalho se baseia na metodologia descrita por Fayyad et al.
-(1996). Os arquivos relacionados a cada etapa estão descrito a seguir:
+(1996). Os arquivos relacionados a cada etapa estão descritos a seguir:
 
-1. Seleção: A base de dados original obitida foi base-100-limpa.csv;
+1. Seleção: A base de dados original obitida foi base-100-limpa.csv e a pasta Extração de características da imagem;
 
-2. Pré-processamento: Data cleaning.ipynb e pasta Extração de características da imagem;
+2. Pré-processamento: Data cleaning.ipynb;
 
 3. Transformação: Data transformation.ipynb;
 
